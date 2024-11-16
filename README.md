@@ -23,6 +23,7 @@
 ### Back-end 🛠️
 - **Node.js**
 - **Express**
+- **Mongoose**
 - **TypeORM**
 
 ### Base de Datos 🛠️
