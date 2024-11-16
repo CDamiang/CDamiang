@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy Damian Garay 👋</h1>
+<h1 align="center">Hola, Soy Damian Garay 👋</h1>
 </div>
-<img src="https://drive.google.com/file/d/1o3Mj-GYIdwtuZjW58BzKxCITHRfpt7jn/view?usp=sharing">
+<img src="https://imgur.com/HhlQjpL">
 
 
 
@@ -11,17 +11,23 @@
 - **JavaScript**
 - **TypeScript**
 
+### Front-end 🎨
+- **HTML5**
+- **CSS**
+- **Bootstrap**
+- **Tailwind css**
+- **React**
+- **Redux**
+- **NextJS**
+
 ### Back-end 🛠️
 - **Node.js**
 - **Express**
 - **TypeORM**
+
+### Base de Datos 🛠️
 - **PostgreSQL**
 - **MongoDB**
-
-### Front-end 🎨
-- **React**
-- **Redux**
-- **NextJS**
 
 ### Testing 🧪
 - **Jest**
